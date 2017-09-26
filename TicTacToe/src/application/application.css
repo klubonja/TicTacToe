@@ -1,0 +1,16 @@
+.button{
+	-fx-focus-color: transparent;
+	-fx-background-insets: -1, 0, 1, 1;
+	
+	-fx-font-weight: bold;
+	-fx-font-size: 52;
+	-fx-text-fill: blue;
+	-fx-background-color: aliceblue;
+	-fx-border-color:darkblue;
+}
+
+.winning-square {
+    -fx-text-fill: red;
+    -fx-background-color: radial-gradient( radius 100%, white, lightyellow, lawngreen);
+}
+
